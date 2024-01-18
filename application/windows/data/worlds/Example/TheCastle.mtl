@@ -1,0 +1,57 @@
+newmtl abstrakte-poolwasseroberflaeche-und-hintergrund-mit-sonnenlichtreflexion
+map_Kd textures\abstrakte-poolwasseroberflaeche-und-hintergrund-mit-sonnenlichtreflexion
+
+newmtl brick_wall_005_diff_1k
+map_Kd textures\brick_wall_005_diff_1k
+
+newmtl brick_wall_02_diff_1k
+map_Kd textures\brick_wall_02_diff_1k
+
+newmtl coast_sand_rocks_02_diff_1k
+map_Kd textures\coast_sand_rocks_02_diff_1k
+
+newmtl ganges_river_pebbles_diff_1k
+map_Kd textures\ganges_river_pebbles_diff_1k
+
+newmtl leafy_grass_diff_1k
+map_Kd textures\leafy_grass_diff_1k
+
+newmtl mossy_cobblestone_diff_1k
+map_Kd textures\mossy_cobblestone_diff_1k
+
+newmtl pavement_02_diff_1k
+map_Kd textures\pavement_02_diff_1k
+
+newmtl pavement_03_diff_1k
+map_Kd textures\pavement_03_diff_1k
+
+newmtl rock_tile_floor_diff_1k
+map_Kd textures\rock_tile_floor_diff_1k
+
+newmtl rock_wall_07_diff_1k
+map_Kd textures\rock_wall_07_diff_1k
+
+newmtl rock_wall_08_diff_1k
+map_Kd textures\rock_wall_08_diff_1k
+
+newmtl rustic_stone_wall_02_diff_1k
+map_Kd textures\rustic_stone_wall_02_diff_1k
+
+newmtl rustic_stone_wall_diff_1k
+map_Kd textures\rustic_stone_wall_diff_1k
+
+newmtl slate_driveway_diff_1k
+map_Kd textures\slate_driveway_diff_1k
+
+newmtl sommerhintergrund-des-meerwassers
+map_Kd textures\sommerhintergrund-des-meerwassers
+
+newmtl stone_tiles_diff_1k
+map_Kd textures\stone_tiles_diff_1k
+
+newmtl stone_wall_diff_1k
+map_Kd textures\stone_wall_diff_1k
+
+newmtl window
+map_Kd textures\window
+

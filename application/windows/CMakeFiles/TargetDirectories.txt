@@ -1,0 +1,3 @@
+C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/SisijaFight.dir
+C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/edit_cache.dir
+C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/rebuild_cache.dir

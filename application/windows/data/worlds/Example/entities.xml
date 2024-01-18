@@ -1,0 +1,574 @@
+<?xml version="1.0" ?>
+<map>
+  <entity>
+    <classname>light</classname>
+    <origin>-2120 -872 -184</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-1896 216 -808</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-3064 1192 -920</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-1272 216 -808</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-1960 -3064 -808</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>312 -2984 -856</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>312 -776 -808</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-2952 -1384 -808</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-3096 -152 -856</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-2952 -4024 -808</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-2808 -3768 -808</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-792 -8008 -40</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-776 -7720 -40</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-776 -7928 -40</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-680 -8568 -136</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-88 -8568 -232</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>1400 -8392 -440</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>3880 -8264 -264</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>5480 -9016 -248</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>4296 -9016 -248</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>9160 -4008 -536</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>8968 -4008 -536</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>9208 -3000 -824</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>8904 -2904 -824</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>9224 -232 -824</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>8920 -216 -824</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>9496 1016 -808</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>9544 72 -808</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>8872 456 -824</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>8888 200 -840</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>9272 2536 -808</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>8904 2488 -808</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>8984 4152 -792</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>8984 4584 -792</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>9336 4600 -456</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>9336 4136 -456</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>5880 472 -808</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>6056 200 -824</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>1192 200 -824</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>1192 456 -824</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>264 456 -824</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>312 200 -824</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>728 -1016 1144</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>728 -536 1144</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>1512 -1016 872</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>1496 -568 888</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>3320 -1432 1176</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>3320 -424 1128</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>3320 -1464 264</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>3320 -360 248</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>1544 -360 248</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>1576 -1480 248</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>440 756.32 904</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-296 740.32 856</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>451.92 -904 344</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-357.68 -24 328</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>424 680 353.92</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>440 775.52 -232</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>456 -798.24 -280</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-357.68 -792 -248</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>968 -3880 -504</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>1192 -3960 -664</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>904 -4344 -504</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>1592 -4312 -504</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>9144 -3704 -600</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>8968 -3704 -600</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>5400 -2440 -904</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>4680 -2392 -904</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>4488 -2616 -904</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>3368 -2424 -904</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>3384 -2616 -904</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>2584 -2408 -904</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>2552 -2600 -904</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>648 -2376 -904</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>648 -2664 -904</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>632 -3400 -904</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>792 -3448 -920</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>792 -4024 -856</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>760 -3896 -904</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>168 -4192.5 -824</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>8472 -2408 -904</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>8424 -2616 -904</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>6952 -2424 -904</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>6872 -2616 -904</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>5848 -2424 -904</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>5864 -2616 -904</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>8856 -2440 -856</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>6296 -1352 -424</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>5496 -1352 -424</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>5656 -2088 -776</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>5640 -2072 -728</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>5432 -2248 -888</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>5640 -2248 -888</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>8872 -2616 -888</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-2376 3080 -968</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-3192 3400 -920</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>4072 3544 -1112</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>4008 3400 -1112</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>3000 3544 -1112</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>2968 3400 -1112</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>1624 3544 -1112</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>1640 3400 -1112</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-456 3544 -1112</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-424 3400 -1112</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-2216 3544 -1112</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-2152 3400 -1112</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>256 -2032 1040</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>4472 3528 40</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>4440 3336 88</origin>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-2376 536 -808</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-984 1816 -808</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-2728 6648 328</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-3160 6872 -24</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-2408 6856 -40</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-2760 7208 -24</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-2024 2664 -328</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-1400 2680 -520</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-1432 4182.61 -248</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>136 4182.61 -232</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-3256 6120 472</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-2312 6152 456</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-1593.54 4232 -280</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-1593.54 5896 -232</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>8936 4360 -616</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>360 1056.48 -296</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-216 1056.48 -280</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-2920 1336 -184</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-2552 1336 -200</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-2488 1288 -184</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-2488 920 -248</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-3096 6232 -328</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-1672 6232 -312</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-2184 1688 -504</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-1928 1560 -504</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-1944 1144 -504</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+  <entity>
+    <classname>light</classname>
+    <origin>-2808 904 -536</origin>
+    <_tb_group>8</_tb_group>
+  </entity>
+</map>

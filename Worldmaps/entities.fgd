@@ -1,0 +1,57 @@
+@PointClass color(255 255 0) size(-8 -8 -8, 8 8 8) model("entities/models/light.obj") = light : "A light source"
+[
+    _color(color) : "Light Color" : "255 255 255"
+    intensity(integer) : "Intensity" : 300
+    spawnflags(flags) =
+    [
+        1 : "No Dynamic Light" : 0
+    ]
+]
+
+@PointClass color(0 255 0) size(-128 -128 -128, 128 128 128) model("entities/models/Box64x64.obj") = SecretBox64x64 : "A 64x64 secret box"
+[
+    content(string) : "Content Description" : "Box, that you can drag and shot, to hide behind."
+]
+
+@PointClass color(0 255 0) size(-64 -64 -64, 64 64 64) model("entities/models/Box24x24.obj") = SecretBox24x24 : "A 24x24 secret box"
+[
+    content(string) : "Content Description" : "Box, that you can drag and shot, to hide behind."
+]
+
+@PointClass color(0 255 0) size(-72 -72 -72, 72 72 72) model("entities/models/Box32x32.obj") = SecretBox32x32 : "A 32x32 secret box"
+[
+    content(string) : "Content Description" : "Box, that you can drag and shot, to hide behind."
+]
+
+@PointClass color(255 0 255) size(-16 -16 -16, 16 16 16) model("entities/models/GiftBox.obj") = GiftBox : "A gift box"
+[
+    itemType(choices) : "Type of item inside" =
+    [
+        0 : "Bomb"
+        1 : "Scaler"
+    ]
+    rarity(integer) : "Rarity Level" : 1
+]
+
+@PointClass color(0 0 255) size(-16 -16 -16, 16 16 16) model("entities/models/Portal.obj") = Portal : "A teleportation portal"
+[
+    destination(target_destination) : "Target destination"
+    spawnflags(flags) =
+    [
+        1 : "One-way portal" : 0
+    ]
+]
+
+@SolidClass color(0 255 0) = Trigger : "Action to run in squirrelScript"
+[
+    action(choices) : "On wich action trigger is triggered" =
+    [
+        0 : "On Player enter"
+        1 : "On shot"
+    ]
+    script(string) : "The function to run if triggered"
+]
+@SolidClass color(0 255 0) = Portal : "Teleport in another World"
+[
+    newWorld(string) : "The relative path to the XML-File of the other world"
+]

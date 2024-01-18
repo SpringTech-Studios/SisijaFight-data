@@ -1,0 +1,7 @@
+<Worlds>
+	<World>
+		<name>Example</name>
+		<path>Example/Example.xml</path>
+		<icon>Example/icon.png</icon>
+	</World>
+</Worlds>

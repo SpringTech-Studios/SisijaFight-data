@@ -1,0 +1,7 @@
+<world name='Tutorial world' author='Max Reuter' maxPlayers='20'>
+	<modelFile>Tutorial.obj</modelFile>
+	<entities enabled='true'>ent.xml</entities>
+	<sky type='skybox'>
+		<skybox up='textures/up.png' down='textures/down.png' left='textures/left.png' right='textures/right.png' forward='textures/for.png' backward='textures/back.png'></skybox>
+	</sky>
+</world>
