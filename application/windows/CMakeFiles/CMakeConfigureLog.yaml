@@ -4,343 +4,6 @@ events:
   -
     kind: "message-v1"
     backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake:233 (message)"
-      - "CMakeLists.txt:12 (project)"
-    message: |
-      The system is: Windows - 10.0.22631 - AMD64
-  -
-    kind: "message-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
-      - "CMakeLists.txt:12 (project)"
-    message: |
-      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
-      Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/bin/Hostx86/x64/cl.exe 
-      Build flags: 
-      Id flags:  
-      
-      The output was:
-      0
-      Microsoft (R) C/C++-Optimierungscompiler Version 19.36.32544 für x64
-      Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
-      
-      CMakeCCompilerId.c
-      Microsoft (R) Incremental Linker Version 14.36.32544.0
-      Copyright (C) Microsoft Corporation.  All rights reserved.
-      
-      /out:CMakeCCompilerId.exe 
-      CMakeCCompilerId.obj 
-      
-      
-      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
-      
-      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
-      
-      The C compiler identification is MSVC, found in:
-        C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.exe
-      
-  -
-    kind: "message-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1182 (message)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:247 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
-      - "CMakeLists.txt:12 (project)"
-    message: |
-      Detecting C compiler /showIncludes prefix:
-        main.c
-        Hinweis: Einlesen der Datei: C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\ShowIncludes\\foo.h
-        
-      Found prefix "Hinweis: Einlesen der Datei: "
-  -
-    kind: "message-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
-      - "CMakeLists.txt:12 (project)"
-    message: |
-      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
-      Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/bin/Hostx86/x64/cl.exe 
-      Build flags: 
-      Id flags:  
-      
-      The output was:
-      0
-      Microsoft (R) C/C++-Optimierungscompiler Version 19.36.32544 für x64
-      Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
-      
-      CMakeCXXCompilerId.cpp
-      Microsoft (R) Incremental Linker Version 14.36.32544.0
-      Copyright (C) Microsoft Corporation.  All rights reserved.
-      
-      /out:CMakeCXXCompilerId.exe 
-      CMakeCXXCompilerId.obj 
-      
-      
-      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
-      
-      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
-      
-      The CXX compiler identification is MSVC, found in:
-        C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.exe
-      
-  -
-    kind: "message-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1182 (message)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:247 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
-      - "CMakeLists.txt:12 (project)"
-    message: |
-      Detecting CXX compiler /showIncludes prefix:
-        main.c
-        Hinweis: Einlesen der Datei: C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\ShowIncludes\\foo.h
-        
-      Found prefix "Hinweis: Einlesen der Datei: "
-  -
-    kind: "try_compile-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
-      - "CMakeLists.txt:12 (project)"
-    checks:
-      - "Detecting C compiler ABI info"
-    directories:
-      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-yigkir"
-      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-yigkir"
-    cmakeVariables:
-      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
-      CMAKE_C_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
-      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
-    buildResult:
-      variable: "CMAKE_C_ABI_COMPILED"
-      cached: true
-      stdout: |
-        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-yigkir'
-        
-        Run Build Command(s): C:/PROGRA~1/MICROS~2/2022/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v cmTC_9516e
-        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx86\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_9516e.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_9516e.dir\\ /FS -c "C:\\Program Files\\CMake\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_9516e.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x86\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x86\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx86\\x64\\link.exe /nologo CMakeFiles\\cmTC_9516e.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_9516e.exe /implib:cmTC_9516e.lib /pdb:cmTC_9516e.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        
-      exitCode: 0
-  -
-    kind: "try_compile-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
-      - "CMakeLists.txt:12 (project)"
-    checks:
-      - "Detecting CXX compiler ABI info"
-    directories:
-      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-9l4fyt"
-      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-9l4fyt"
-    cmakeVariables:
-      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
-      CMAKE_CXX_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
-      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
-    buildResult:
-      variable: "CMAKE_CXX_ABI_COMPILED"
-      cached: true
-      stdout: |
-        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-9l4fyt'
-        
-        Run Build Command(s): C:/PROGRA~1/MICROS~2/2022/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v cmTC_1f79f
-        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx86\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_1f79f.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_1f79f.dir\\ /FS -c "C:\\Program Files\\CMake\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_1f79f.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x86\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x86\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx86\\x64\\link.exe /nologo CMakeFiles\\cmTC_1f79f.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_1f79f.exe /implib:cmTC_1f79f.lib /pdb:cmTC_1f79f.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        
-      exitCode: 0
-  -
-    kind: "message-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1144 (message)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineASMCompiler.cmake:131 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:87 (enable_language)"
-    message: |
-      Checking whether the ASM_MASM compiler is GNU using "--version" did not match "(GNU assembler)|(GCC)|(Free Software Foundation)":
-      Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
-      Copyright (C) Microsoft Corporation.  All rights reserved.
-      
-      MASM : warning A4018:invalid command-line option : --version
-      MASM : fatal error A1017:missing source filename
-  -
-    kind: "message-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1144 (message)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineASMCompiler.cmake:131 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:87 (enable_language)"
-    message: |
-      Checking whether the ASM_MASM compiler is AppleClang using "--version" did not match "(Apple (clang|LLVM) version)":
-      Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
-      Copyright (C) Microsoft Corporation.  All rights reserved.
-      
-      MASM : warning A4018:invalid command-line option : --version
-      MASM : fatal error A1017:missing source filename
-  -
-    kind: "message-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1144 (message)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineASMCompiler.cmake:131 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:87 (enable_language)"
-    message: |
-      Checking whether the ASM_MASM compiler is Clang using "--version" did not match "(clang version)":
-      Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
-      Copyright (C) Microsoft Corporation.  All rights reserved.
-      
-      MASM : warning A4018:invalid command-line option : --version
-      MASM : fatal error A1017:missing source filename
-  -
-    kind: "message-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1144 (message)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineASMCompiler.cmake:131 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:87 (enable_language)"
-    message: |
-      Checking whether the ASM_MASM compiler is ARMClang using "--version" did not match "armclang":
-      Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
-      Copyright (C) Microsoft Corporation.  All rights reserved.
-      
-      MASM : warning A4018:invalid command-line option : --version
-      MASM : fatal error A1017:missing source filename
-  -
-    kind: "message-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1144 (message)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineASMCompiler.cmake:131 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:87 (enable_language)"
-    message: |
-      Checking whether the ASM_MASM compiler is OrangeC using "--version" did not match "occ \\(OrangeC\\) Version":
-      Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
-      Copyright (C) Microsoft Corporation.  All rights reserved.
-      
-      MASM : warning A4018:invalid command-line option : --version
-      MASM : fatal error A1017:missing source filename
-  -
-    kind: "message-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1144 (message)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineASMCompiler.cmake:131 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:87 (enable_language)"
-    message: |
-      Checking whether the ASM_MASM compiler is HP using "-V" did not match "HP C":
-      Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
-      Copyright (C) Microsoft Corporation.  All rights reserved.
-      
-      MASM : warning A4018:invalid command-line option : -V
-      MASM : fatal error A1017:missing source filename
-  -
-    kind: "message-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1144 (message)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineASMCompiler.cmake:131 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:87 (enable_language)"
-    message: |
-      Checking whether the ASM_MASM compiler is Intel using "--version" did not match "(ICC)":
-      Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
-      Copyright (C) Microsoft Corporation.  All rights reserved.
-      
-      MASM : warning A4018:invalid command-line option : --version
-      MASM : fatal error A1017:missing source filename
-  -
-    kind: "message-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1144 (message)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineASMCompiler.cmake:131 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:87 (enable_language)"
-    message: |
-      Checking whether the ASM_MASM compiler is IntelLLVM using "--version" did not match "(Intel[^
-      ]+oneAPI)":
-      Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
-      Copyright (C) Microsoft Corporation.  All rights reserved.
-      
-      MASM : warning A4018:invalid command-line option : --version
-      MASM : fatal error A1017:missing source filename
-  -
-    kind: "message-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1144 (message)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineASMCompiler.cmake:131 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:87 (enable_language)"
-    message: |
-      Checking whether the ASM_MASM compiler is SunPro using "-V" did not match "Sun C":
-      Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
-      Copyright (C) Microsoft Corporation.  All rights reserved.
-      
-      MASM : warning A4018:invalid command-line option : -V
-      MASM : fatal error A1017:missing source filename
-  -
-    kind: "message-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1144 (message)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineASMCompiler.cmake:131 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:87 (enable_language)"
-    message: |
-      Checking whether the ASM_MASM compiler is XL using "-qversion" did not match "XL C":
-      Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
-      Copyright (C) Microsoft Corporation.  All rights reserved.
-      
-      MASM : warning A4018:invalid command-line option : -qversion
-      MASM : fatal error A1017:missing source filename
-  -
-    kind: "message-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1131 (message)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineASMCompiler.cmake:131 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
-      - "C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:87 (enable_language)"
-    message: |
-      Checking whether the ASM_MASM compiler is MSVC using "-?" matched "Microsoft":
-      Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
-      Copyright (C) Microsoft Corporation.  All rights reserved.
-      
-              ML64 [ /options ] filelist [ /link linkoptions ]
-      
-      /Bl<linker> Use alternate linker          /Sf Generate first pass listing
-      /c Assemble without linking               /Sl<width> Set line width
-      /Cp Preserve case of user identifiers     /Sn Suppress symbol-table listing
-      /Cx Preserve case in publics, externs     /Sp<length> Set page length
-      /D<name>[=text] Define text macro         /Ss<string> Set subtitle
-      /EP Output preprocessed listing to stdout /St<string> Set title
-      /F <hex> Set stack size (bytes)           /Sx List false conditionals
-      /Fe<file> Name executable                 /Ta<file> Assemble non-.ASM file
-      /Fl[file] Generate listing                /w Same as /W0 /WX
-      /Fm[file] Generate map                    /WX Treat warnings as errors
-      /Fo<file> Name object file                /W<number> Set warning level
-      /Fr[file] Generate limited browser info   /X Ignore INCLUDE environment path
-      /FR[file] Generate full browser info      /Zd Add line number debug info
-      /I<name> Add include path                 /Zf Make all symbols public
-      /link <linker options and libraries>      /Zi Add symbolic debug info
-      /nologo Suppress copyright message        /Zp[n] Set structure alignment
-      /Sa Maximize source listing               /Zs Perform syntax check only
-      /ZH:MD5 Use MD5 for checksum in debug info
-      /ZH:SHA_256 Use SHA256 for checksum in debug info (default)
-      /Gy[-] separate functions for linker      /quiet Suppress 'Assembling' message
-      /errorReport:<option> Deprecated. Report internal assembler errors to Microsoft
-          none - do not send report
-          prompt - prompt to immediately send report
-          queue - at next admin logon, prompt to send report
-          send - send report automatically
-...
-
----
-events:
-  -
-    kind: "message-v1"
-    backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake:211 (message)"
       - "CMakeLists.txt:12 (project)"
     message: |
@@ -355,7 +18,7 @@ events:
     message: |
       Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
       Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/bin/Hostx64/x64/cl.exe 
-      Build flags: /DWIN32;/D_WINDOWS;/W3
+      Build flags: 
       Id flags:  
       
       The output was:
@@ -401,7 +64,7 @@ events:
     message: |
       Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
       Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/bin/Hostx64/x64/cl.exe 
-      Build flags: /DWIN32;/D_WINDOWS;/W3;/GR;/EHsc
+      Build flags: 
       Id flags:  
       
       The output was:
@@ -446,8 +109,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-oqkl00"
-      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-oqkl00"
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-sofr9w"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-sofr9w"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
@@ -457,11 +120,11 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-oqkl00'
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-sofr9w'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_14b2a
-        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_14b2a.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_14b2a.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
-        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_14b2a.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x86\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x86\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx86\\x64\\link.exe /nologo CMakeFiles\\cmTC_14b2a.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_14b2a.exe /implib:cmTC_14b2a.lib /pdb:cmTC_14b2a.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_9fc77
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_9fc77.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_9fc77.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_9fc77.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_9fc77.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_9fc77.exe /implib:cmTC_9fc77.lib /pdb:cmTC_9fc77.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -473,8 +136,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-96ohim"
-      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-96ohim"
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-0kkihb"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-0kkihb"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
@@ -484,11 +147,11 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-96ohim'
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-0kkihb'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_1a93e
-        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_1a93e.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_1a93e.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
-        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_1a93e.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x86\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x86\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx86\\x64\\link.exe /nologo CMakeFiles\\cmTC_1a93e.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_1a93e.exe /implib:cmTC_1a93e.lib /pdb:cmTC_1a93e.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_b5c4b
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_b5c4b.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_b5c4b.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_b5c4b.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b5c4b.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_b5c4b.exe /implib:cmTC_b5c4b.lib /pdb:cmTC_b5c4b.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -497,7 +160,7 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:87 (enable_language)"
+      - "CMakeLists.txt:96 (enable_language)"
     message: |
       Checking whether the ASM_MASM compiler is GNU using "--version" did not match "(GNU assembler)|(GCC)|(Free Software Foundation)":
       Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
@@ -511,7 +174,7 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:87 (enable_language)"
+      - "CMakeLists.txt:96 (enable_language)"
     message: |
       Checking whether the ASM_MASM compiler is AppleClang using "--version" did not match "(Apple (clang|LLVM) version)":
       Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
@@ -525,7 +188,7 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:87 (enable_language)"
+      - "CMakeLists.txt:96 (enable_language)"
     message: |
       Checking whether the ASM_MASM compiler is Clang using "--version" did not match "(clang version)":
       Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
@@ -539,7 +202,7 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:87 (enable_language)"
+      - "CMakeLists.txt:96 (enable_language)"
     message: |
       Checking whether the ASM_MASM compiler is ARMClang using "--version" did not match "armclang":
       Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
@@ -553,7 +216,7 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:87 (enable_language)"
+      - "CMakeLists.txt:96 (enable_language)"
     message: |
       Checking whether the ASM_MASM compiler is HP using "-V" did not match "HP C":
       Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
@@ -567,7 +230,7 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:87 (enable_language)"
+      - "CMakeLists.txt:96 (enable_language)"
     message: |
       Checking whether the ASM_MASM compiler is Intel using "--version" did not match "(ICC)":
       Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
@@ -581,7 +244,7 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:87 (enable_language)"
+      - "CMakeLists.txt:96 (enable_language)"
     message: |
       Checking whether the ASM_MASM compiler is IntelLLVM using "--version" did not match "(Intel[^
       ]+oneAPI)":
@@ -596,7 +259,7 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:87 (enable_language)"
+      - "CMakeLists.txt:96 (enable_language)"
     message: |
       Checking whether the ASM_MASM compiler is SunPro using "-V" did not match "Sun C":
       Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
@@ -610,7 +273,7 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:87 (enable_language)"
+      - "CMakeLists.txt:96 (enable_language)"
     message: |
       Checking whether the ASM_MASM compiler is XL using "-qversion" did not match "XL C":
       Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
@@ -624,7 +287,7 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1107 (message)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:87 (enable_language)"
+      - "CMakeLists.txt:96 (enable_language)"
     message: |
       Checking whether the ASM_MASM compiler is MSVC using "-?" matched "Microsoft":
       Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
@@ -657,4 +320,102 @@ events:
           prompt - prompt to immediately send report
           queue - at next admin logon, prompt to send report
           send - send report automatically
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/FindThreads.cmake:97 (CHECK_C_SOURCE_COMPILES)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/FindThreads.cmake:163 (_threads_check_libc)"
+      - "lib/whispercpp/CMakeLists.txt:106 (find_package)"
+    checks:
+      - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-0vwqsf"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-0vwqsf"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/whispercpp/cmake/"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "CMAKE_HAVE_LIBC_PTHREAD"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-0vwqsf'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_145f4
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_145f4.dir\\src.c.obj /FdCMakeFiles\\cmTC_145f4.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-0vwqsf\\src.c
+        FAILED: CMakeFiles/cmTC_145f4.dir/src.c.obj 
+        C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_145f4.dir\\src.c.obj /FdCMakeFiles\\cmTC_145f4.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-0vwqsf\\src.c
+        C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-0vwqsf\\src.c(1): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "pthread.h": No such file or directory
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckLibraryExists.cmake:69 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/FindThreads.cmake:175 (_threads_check_lib)"
+      - "lib/whispercpp/CMakeLists.txt:106 (find_package)"
+    checks:
+      - "Looking for pthread_create in pthreads"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-h7b424"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-h7b424"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/whispercpp/cmake/"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREADS_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-h7b424'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_f4603
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DCHECK_FUNCTION_EXISTS=pthread_create /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_f4603.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_f4603.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-h7b424\\CheckFunctionExists.c
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_f4603.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_f4603.dir\\CheckFunctionExists.c.obj  /out:cmTC_f4603.exe /implib:cmTC_f4603.lib /pdb:cmTC_f4603.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_f4603.exe 
+        cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_f4603.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_f4603.dir\\CheckFunctionExists.c.obj  /out:cmTC_f4603.exe /implib:cmTC_f4603.lib /pdb:cmTC_f4603.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_f4603.dir\\CheckFunctionExists.c.obj /out:cmTC_f4603.exe /implib:cmTC_f4603.lib /pdb:cmTC_f4603.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_f4603.dir/intermediate.manifest CMakeFiles\\cmTC_f4603.dir/manifest.res" failed (exit code 1104) with the following output:
+        LINK : fatal error LNK1104: Datei "pthreads.lib" kann nicht geöffnet werden.\x0d
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckLibraryExists.cmake:69 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/FindThreads.cmake:176 (_threads_check_lib)"
+      - "lib/whispercpp/CMakeLists.txt:106 (find_package)"
+    checks:
+      - "Looking for pthread_create in pthread"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-z9vuyq"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-z9vuyq"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/whispercpp/cmake/"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREAD_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-z9vuyq'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_b4a7c
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DCHECK_FUNCTION_EXISTS=pthread_create /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_b4a7c.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_b4a7c.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-z9vuyq\\CheckFunctionExists.c
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_b4a7c.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b4a7c.dir\\CheckFunctionExists.c.obj  /out:cmTC_b4a7c.exe /implib:cmTC_b4a7c.lib /pdb:cmTC_b4a7c.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_b4a7c.exe 
+        cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_b4a7c.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b4a7c.dir\\CheckFunctionExists.c.obj  /out:cmTC_b4a7c.exe /implib:cmTC_b4a7c.lib /pdb:cmTC_b4a7c.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b4a7c.dir\\CheckFunctionExists.c.obj /out:cmTC_b4a7c.exe /implib:cmTC_b4a7c.lib /pdb:cmTC_b4a7c.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_b4a7c.dir/intermediate.manifest CMakeFiles\\cmTC_b4a7c.dir/manifest.res" failed (exit code 1104) with the following output:
+        LINK : fatal error LNK1104: Datei "pthread.lib" kann nicht geöffnet werden.\x0d
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
 ...

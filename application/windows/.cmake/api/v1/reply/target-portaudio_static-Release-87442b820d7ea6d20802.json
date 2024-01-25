@@ -1,0 +1,805 @@
+{
+	"archive" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/machine:x64",
+				"role" : "flags"
+			}
+		]
+	},
+	"artifacts" : 
+	[
+		{
+			"path" : "lib/portaudio/portaudio_static_x64.lib"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_LIBRARY",
+			"INSTALL",
+			"SET_PROPERTY",
+			"include_directories",
+			"TARGET_INCLUDE_DIRECTORIES",
+			"SET_SOURCE_FILES_PROPERTIES"
+		],
+		"files" : 
+		[
+			"lib/portaudio/CMakeLists.txt",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 382,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 456,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 383,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 58,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 59,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 60,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 61,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 62,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 63,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 64,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 65,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 66,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 67,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 68,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 69,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 70,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 71,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 76,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 77,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 132,
+				"parent" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 384,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 385,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 332,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /MD /O2 /Ob2 /DNDEBUG"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "PAWIN_USE_DIRECTSOUNDFULLDUPLEXCREATE"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "PAWIN_USE_WDMKS_DEVICE_INFO"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "PA_LITTLE_ENDIAN"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "PORTAUDIO_CMAKE_GENERATED"
+				},
+				{
+					"backtrace" : 24,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "_CRT_SECURE_NO_WARNINGS"
+				},
+				{
+					"backtrace" : 24,
+					"define" : "_UNICODE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 5,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/Irrlicht/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/angelscript/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/angelscript/addons"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/Irrlicht/aesGladman"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/Irrlicht/bzip2"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/Irrlicht/jpeglib"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/Irrlicht/libpng"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/Irrlicht/lzma"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/Irrlicht/zlib"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/soloud/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/irrbullet/include"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/Bullet/src"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/pugixml"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib"
+				},
+				{
+					"backtrace" : 18,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/gui/imgui"
+				},
+				{
+					"backtrace" : 18,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/gui/imgui/IMGUI"
+				},
+				{
+					"backtrace" : 18,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/gui/ImGuizmo"
+				},
+				{
+					"backtrace" : 18,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/gui/Irrlicht-ImGui/includes"
+				},
+				{
+					"backtrace" : 18,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/gui/imgui-node-editor"
+				},
+				{
+					"backtrace" : 19,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/enet/include"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/Bullet/Extras/BulletRoboticsGUI"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/Bullet/Extras/ConvexDecomposition"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/Bullet/Extras/GIMPACTUtils"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/Bullet/Extras/HACD"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/Bullet/Extras/InverseDynamics"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/Bullet/Extras/obj2sdf"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/Bullet/Extras/Serialize"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/Bullet/Extras/VHACD/inc"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/Bullet/Extras/BulletRobotics"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "C:/Users/Lucas Gola/Desktop/Sisija/SisijaFight/SisijaFight/lib/Bullet/Extras/Serialize/BulletFileLoader"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/Bullet/Extras/Serialize/BulletWorldImporter"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/Bullet/Extras/Serialize/BulletXmlWorldImporter"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/Bullet/Extras/Serialize/HeaderGenerator"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/Bullet/Extras/Serialize/makesdna"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/Bullet/Extras/Serialize/ReadBulletSample"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/Bullet/Extras/Serialize/BlenderSerialize"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/whispercpp"
+				},
+				{
+					"backtrace" : 22,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/portaudio/src/common"
+				},
+				{
+					"backtrace" : 22,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/lib/portaudio"
+				},
+				{
+					"backtrace" : 22,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/portaudio/src/os/win"
+				},
+				{
+					"backtrace" : 23,
+					"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/portaudio/include"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46
+			]
+		}
+	],
+	"id" : "portaudio_static::@8db1857f5d58be260399",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 2,
+				"path" : "lib"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight/out/install/x64-release"
+		}
+	},
+	"name" : "portaudio_static",
+	"nameOnDisk" : "portaudio_static_x64.lib",
+	"paths" : 
+	{
+		"build" : "lib/portaudio",
+		"source" : "lib/portaudio"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "os\\win",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41
+			]
+		},
+		{
+			"name" : "hostapi\\dsound",
+			"sourceIndexes" : 
+			[
+				3,
+				42,
+				43
+			]
+		},
+		{
+			"name" : "cmake_generated",
+			"sourceIndexes" : 
+			[
+				4
+			]
+		},
+		{
+			"name" : "include",
+			"sourceIndexes" : 
+			[
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"name" : "common",
+			"sourceIndexes" : 
+			[
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34
+			]
+		},
+		{
+			"name" : "hostapi\\skeleton",
+			"sourceIndexes" : 
+			[
+				35
+			]
+		},
+		{
+			"name" : "hostapi\\wmme",
+			"sourceIndexes" : 
+			[
+				44
+			]
+		},
+		{
+			"name" : "hostapi\\wasapi",
+			"sourceIndexes" : 
+			[
+				45
+			]
+		},
+		{
+			"name" : "hostapi\\wdmks",
+			"sourceIndexes" : 
+			[
+				46
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/src/os/win/pa_win_coinitialize.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/src/os/win/pa_win_wdmks_utils.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/src/os/win/pa_x86_plain_converters.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/src/hostapi/dsound/pa_win_ds_dynlink.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/lib/portaudio/options_cmake.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/include/portaudio.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/include/pa_win_ds.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/include/pa_win_waveformat.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/include/pa_win_wmme.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/include/pa_win_wasapi.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/include/pa_win_wdmks.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/src/common/pa_allocation.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/src/common/pa_converters.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/src/common/pa_cpuload.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/src/common/pa_debugprint.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/src/common/pa_dither.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/src/common/pa_endianness.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/src/common/pa_hostapi.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/src/common/pa_memorybarrier.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/src/common/pa_process.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/src/common/pa_ringbuffer.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/src/common/pa_stream.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/src/common/pa_trace.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/src/common/pa_types.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/portaudio/src/common/pa_util.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/portaudio/src/common/pa_allocation.c",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/portaudio/src/common/pa_converters.c",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/portaudio/src/common/pa_cpuload.c",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/portaudio/src/common/pa_debugprint.c",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/portaudio/src/common/pa_dither.c",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/portaudio/src/common/pa_front.c",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/portaudio/src/common/pa_process.c",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/portaudio/src/common/pa_ringbuffer.c",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/portaudio/src/common/pa_stream.c",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/portaudio/src/common/pa_trace.c",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/portaudio/src/hostapi/skeleton/pa_hostapi_skeleton.c",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/portaudio/src/os/win/pa_win_hostapis.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/portaudio/src/os/win/pa_win_util.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/portaudio/src/os/win/pa_win_waveformat.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/portaudio/src/os/win/pa_win_wdmks_utils.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/portaudio/src/os/win/pa_win_coinitialize.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/portaudio/src/os/win/pa_x86_plain_converters.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/portaudio/src/hostapi/dsound/pa_win_ds.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/portaudio/src/hostapi/dsound/pa_win_ds_dynlink.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/portaudio/src/hostapi/wmme/pa_win_wmme.c",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/portaudio/src/hostapi/wasapi/pa_win_wasapi.c",
+			"sourceGroupIndex" : 7
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/portaudio/src/hostapi/wdmks/pa_win_wdmks.c",
+			"sourceGroupIndex" : 8
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}
