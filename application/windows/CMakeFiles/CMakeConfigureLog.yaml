@@ -109,8 +109,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-sofr9w"
-      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-sofr9w"
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-7pax0d"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-7pax0d"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
@@ -120,11 +120,11 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-sofr9w'
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-7pax0d'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_9fc77
-        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_9fc77.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_9fc77.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
-        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_9fc77.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_9fc77.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_9fc77.exe /implib:cmTC_9fc77.lib /pdb:cmTC_9fc77.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_39727
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_39727.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_39727.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_39727.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_39727.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_39727.exe /implib:cmTC_39727.lib /pdb:cmTC_39727.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -136,8 +136,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-0kkihb"
-      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-0kkihb"
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-pa1kj8"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-pa1kj8"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
@@ -147,11 +147,11 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-0kkihb'
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-pa1kj8'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_b5c4b
-        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_b5c4b.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_b5c4b.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
-        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_b5c4b.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b5c4b.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_b5c4b.exe /implib:cmTC_b5c4b.lib /pdb:cmTC_b5c4b.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_eb155
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_eb155.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_eb155.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_eb155.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_eb155.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_eb155.exe /implib:cmTC_eb155.lib /pdb:cmTC_eb155.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -160,7 +160,7 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:96 (enable_language)"
+      - "CMakeLists.txt:97 (enable_language)"
     message: |
       Checking whether the ASM_MASM compiler is GNU using "--version" did not match "(GNU assembler)|(GCC)|(Free Software Foundation)":
       Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
@@ -174,7 +174,7 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:96 (enable_language)"
+      - "CMakeLists.txt:97 (enable_language)"
     message: |
       Checking whether the ASM_MASM compiler is AppleClang using "--version" did not match "(Apple (clang|LLVM) version)":
       Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
@@ -188,7 +188,7 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:96 (enable_language)"
+      - "CMakeLists.txt:97 (enable_language)"
     message: |
       Checking whether the ASM_MASM compiler is Clang using "--version" did not match "(clang version)":
       Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
@@ -202,7 +202,7 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:96 (enable_language)"
+      - "CMakeLists.txt:97 (enable_language)"
     message: |
       Checking whether the ASM_MASM compiler is ARMClang using "--version" did not match "armclang":
       Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
@@ -216,7 +216,7 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:96 (enable_language)"
+      - "CMakeLists.txt:97 (enable_language)"
     message: |
       Checking whether the ASM_MASM compiler is HP using "-V" did not match "HP C":
       Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
@@ -230,7 +230,7 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:96 (enable_language)"
+      - "CMakeLists.txt:97 (enable_language)"
     message: |
       Checking whether the ASM_MASM compiler is Intel using "--version" did not match "(ICC)":
       Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
@@ -244,7 +244,7 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:96 (enable_language)"
+      - "CMakeLists.txt:97 (enable_language)"
     message: |
       Checking whether the ASM_MASM compiler is IntelLLVM using "--version" did not match "(Intel[^
       ]+oneAPI)":
@@ -259,7 +259,7 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:96 (enable_language)"
+      - "CMakeLists.txt:97 (enable_language)"
     message: |
       Checking whether the ASM_MASM compiler is SunPro using "-V" did not match "Sun C":
       Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
@@ -273,7 +273,7 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:96 (enable_language)"
+      - "CMakeLists.txt:97 (enable_language)"
     message: |
       Checking whether the ASM_MASM compiler is XL using "-qversion" did not match "XL C":
       Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
@@ -287,7 +287,7 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1107 (message)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
-      - "CMakeLists.txt:96 (enable_language)"
+      - "CMakeLists.txt:97 (enable_language)"
     message: |
       Checking whether the ASM_MASM compiler is MSVC using "-?" matched "Microsoft":
       Microsoft (R) Macro Assembler (x64) Version 14.36.32544.0
@@ -331,8 +331,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-0vwqsf"
-      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-0vwqsf"
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-v2azvg"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-v2azvg"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
@@ -342,13 +342,13 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-0vwqsf'
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-v2azvg'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_145f4
-        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_145f4.dir\\src.c.obj /FdCMakeFiles\\cmTC_145f4.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-0vwqsf\\src.c
-        FAILED: CMakeFiles/cmTC_145f4.dir/src.c.obj 
-        C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_145f4.dir\\src.c.obj /FdCMakeFiles\\cmTC_145f4.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-0vwqsf\\src.c
-        C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-0vwqsf\\src.c(1): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "pthread.h": No such file or directory
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_9981e
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_9981e.dir\\src.c.obj /FdCMakeFiles\\cmTC_9981e.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-v2azvg\\src.c
+        FAILED: CMakeFiles/cmTC_9981e.dir/src.c.obj 
+        C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_9981e.dir\\src.c.obj /FdCMakeFiles\\cmTC_9981e.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-v2azvg\\src.c
+        C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-v2azvg\\src.c(1): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "pthread.h": No such file or directory
         ninja: build stopped: subcommand failed.
         
       exitCode: 1
@@ -362,8 +362,8 @@ events:
     checks:
       - "Looking for pthread_create in pthreads"
     directories:
-      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-h7b424"
-      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-h7b424"
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-pnequy"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-pnequy"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
@@ -373,14 +373,14 @@ events:
       variable: "CMAKE_HAVE_PTHREADS_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-h7b424'
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-pnequy'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_f4603
-        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DCHECK_FUNCTION_EXISTS=pthread_create /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_f4603.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_f4603.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-h7b424\\CheckFunctionExists.c
-        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_f4603.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_f4603.dir\\CheckFunctionExists.c.obj  /out:cmTC_f4603.exe /implib:cmTC_f4603.lib /pdb:cmTC_f4603.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        FAILED: cmTC_f4603.exe 
-        cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_f4603.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_f4603.dir\\CheckFunctionExists.c.obj  /out:cmTC_f4603.exe /implib:cmTC_f4603.lib /pdb:cmTC_f4603.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_f4603.dir\\CheckFunctionExists.c.obj /out:cmTC_f4603.exe /implib:cmTC_f4603.lib /pdb:cmTC_f4603.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_f4603.dir/intermediate.manifest CMakeFiles\\cmTC_f4603.dir/manifest.res" failed (exit code 1104) with the following output:
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_0d606
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DCHECK_FUNCTION_EXISTS=pthread_create /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_0d606.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_0d606.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-pnequy\\CheckFunctionExists.c
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_0d606.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_0d606.dir\\CheckFunctionExists.c.obj  /out:cmTC_0d606.exe /implib:cmTC_0d606.lib /pdb:cmTC_0d606.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_0d606.exe 
+        cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_0d606.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_0d606.dir\\CheckFunctionExists.c.obj  /out:cmTC_0d606.exe /implib:cmTC_0d606.lib /pdb:cmTC_0d606.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_0d606.dir\\CheckFunctionExists.c.obj /out:cmTC_0d606.exe /implib:cmTC_0d606.lib /pdb:cmTC_0d606.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_0d606.dir/intermediate.manifest CMakeFiles\\cmTC_0d606.dir/manifest.res" failed (exit code 1104) with the following output:
         LINK : fatal error LNK1104: Datei "pthreads.lib" kann nicht geöffnet werden.\x0d
         ninja: build stopped: subcommand failed.
         
@@ -395,8 +395,8 @@ events:
     checks:
       - "Looking for pthread_create in pthread"
     directories:
-      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-z9vuyq"
-      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-z9vuyq"
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-evfgwr"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-evfgwr"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
@@ -406,16 +406,890 @@ events:
       variable: "CMAKE_HAVE_PTHREAD_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-z9vuyq'
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-evfgwr'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_b4a7c
-        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DCHECK_FUNCTION_EXISTS=pthread_create /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_b4a7c.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_b4a7c.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-z9vuyq\\CheckFunctionExists.c
-        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_b4a7c.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b4a7c.dir\\CheckFunctionExists.c.obj  /out:cmTC_b4a7c.exe /implib:cmTC_b4a7c.lib /pdb:cmTC_b4a7c.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        FAILED: cmTC_b4a7c.exe 
-        cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_b4a7c.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b4a7c.dir\\CheckFunctionExists.c.obj  /out:cmTC_b4a7c.exe /implib:cmTC_b4a7c.lib /pdb:cmTC_b4a7c.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b4a7c.dir\\CheckFunctionExists.c.obj /out:cmTC_b4a7c.exe /implib:cmTC_b4a7c.lib /pdb:cmTC_b4a7c.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_b4a7c.dir/intermediate.manifest CMakeFiles\\cmTC_b4a7c.dir/manifest.res" failed (exit code 1104) with the following output:
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_46e78
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DCHECK_FUNCTION_EXISTS=pthread_create /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_46e78.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_46e78.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-evfgwr\\CheckFunctionExists.c
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_46e78.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_46e78.dir\\CheckFunctionExists.c.obj  /out:cmTC_46e78.exe /implib:cmTC_46e78.lib /pdb:cmTC_46e78.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_46e78.exe 
+        cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_46e78.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_46e78.dir\\CheckFunctionExists.c.obj  /out:cmTC_46e78.exe /implib:cmTC_46e78.lib /pdb:cmTC_46e78.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_46e78.dir\\CheckFunctionExists.c.obj /out:cmTC_46e78.exe /implib:cmTC_46e78.lib /pdb:cmTC_46e78.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_46e78.dir/intermediate.manifest CMakeFiles\\cmTC_46e78.dir/manifest.res" failed (exit code 1104) with the following output:
         LINK : fatal error LNK1104: Datei "pthread.lib" kann nicht geöffnet werden.\x0d
         ninja: build stopped: subcommand failed.
         
       exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckLibraryExists.cmake:69 (try_compile)"
+      - "lib/curl/CMakeLists.txt:855 (check_library_exists)"
+    checks:
+      - "Looking for idn2_lookup_ul in idn2"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-mqozpg"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-mqozpg"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_LIBIDN2"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-mqozpg'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_5e3b9
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DCHECK_FUNCTION_EXISTS=idn2_lookup_ul /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_5e3b9.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_5e3b9.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-mqozpg\\CheckFunctionExists.c
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_5e3b9.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_5e3b9.dir\\CheckFunctionExists.c.obj  /out:cmTC_5e3b9.exe /implib:cmTC_5e3b9.lib /pdb:cmTC_5e3b9.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  idn2.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_5e3b9.exe 
+        cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_5e3b9.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_5e3b9.dir\\CheckFunctionExists.c.obj  /out:cmTC_5e3b9.exe /implib:cmTC_5e3b9.lib /pdb:cmTC_5e3b9.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  idn2.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_5e3b9.dir\\CheckFunctionExists.c.obj /out:cmTC_5e3b9.exe /implib:cmTC_5e3b9.lib /pdb:cmTC_5e3b9.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console idn2.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_5e3b9.dir/intermediate.manifest CMakeFiles\\cmTC_5e3b9.dir/manifest.res" failed (exit code 1104) with the following output:
+        LINK : fatal error LNK1104: Datei "idn2.lib" kann nicht geöffnet werden.\x0d
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "lib/curl/CMake/Macros.cmake:49 (try_compile)"
+      - "lib/curl/CMakeLists.txt:1080 (curl_internal_test)"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_WIN32_WINNT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_22a3d
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_22a3d.dir\\CurlTests.c.obj /FdCMakeFiles\\cmTC_22a3d.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight\\lib\\curl\\CMake\\CurlTests.c
+        _WIN32_WINNT=0x0A00
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_22a3d.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_22a3d.dir\\CurlTests.c.obj  /out:cmTC_22a3d.exe /implib:cmTC_22a3d.lib /pdb:cmTC_22a3d.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:251 (check_include_file)"
+      - "lib/curl/CMakeLists.txt:1151 (check_type_size)"
+    checks:
+      - "Looking for stdint.h"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-3sdco2"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-3sdco2"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_STDINT_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-3sdco2'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_08f35
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_08f35.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_08f35.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-3sdco2\\CheckIncludeFile.c
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_08f35.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_08f35.dir\\CheckIncludeFile.c.obj  /out:cmTC_08f35.exe /implib:cmTC_08f35.lib /pdb:cmTC_08f35.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:146 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:271 (__check_type_size_impl)"
+      - "lib/curl/CMakeLists.txt:1151 (check_type_size)"
+    checks:
+      - "Check size of size_t"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-1zquc7"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-1zquc7"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_SIZEOF_SIZE_T"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-1zquc7'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_d0664
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_d0664.dir\\SIZEOF_SIZE_T.c.obj /FdCMakeFiles\\cmTC_d0664.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-1zquc7\\SIZEOF_SIZE_T.c
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_d0664.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_d0664.dir\\SIZEOF_SIZE_T.c.obj  /out:cmTC_d0664.exe /implib:cmTC_d0664.lib /pdb:cmTC_d0664.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:146 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:271 (__check_type_size_impl)"
+      - "lib/curl/CMakeLists.txt:1152 (check_type_size)"
+    checks:
+      - "Check size of ssize_t"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-68tsn5"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-68tsn5"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_SIZEOF_SSIZE_T"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-68tsn5'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_6b40e
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_6b40e.dir\\SIZEOF_SSIZE_T.c.obj /FdCMakeFiles\\cmTC_6b40e.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-68tsn5\\SIZEOF_SSIZE_T.c
+        FAILED: CMakeFiles/cmTC_6b40e.dir/SIZEOF_SSIZE_T.c.obj 
+        C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_6b40e.dir\\SIZEOF_SSIZE_T.c.obj /FdCMakeFiles\\cmTC_6b40e.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-68tsn5\\SIZEOF_SSIZE_T.c
+        C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-68tsn5\\SIZEOF_SSIZE_T.c(29): error C2065: "ssize_t": nichtdeklarierter Bezeichner
+        C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-68tsn5\\SIZEOF_SSIZE_T.c(30): error C2065: "ssize_t": nichtdeklarierter Bezeichner
+        C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-68tsn5\\SIZEOF_SSIZE_T.c(31): error C2065: "ssize_t": nichtdeklarierter Bezeichner
+        C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-68tsn5\\SIZEOF_SSIZE_T.c(32): error C2065: "ssize_t": nichtdeklarierter Bezeichner
+        C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-68tsn5\\SIZEOF_SSIZE_T.c(33): error C2065: "ssize_t": nichtdeklarierter Bezeichner
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:146 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:271 (__check_type_size_impl)"
+      - "lib/curl/CMakeLists.txt:1153 (check_type_size)"
+    checks:
+      - "Check size of long long"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-1yx8j3"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-1yx8j3"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_SIZEOF_LONG_LONG"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-1yx8j3'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_d5b97
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_d5b97.dir\\SIZEOF_LONG_LONG.c.obj /FdCMakeFiles\\cmTC_d5b97.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-1yx8j3\\SIZEOF_LONG_LONG.c
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_d5b97.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_d5b97.dir\\SIZEOF_LONG_LONG.c.obj  /out:cmTC_d5b97.exe /implib:cmTC_d5b97.lib /pdb:cmTC_d5b97.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:146 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:271 (__check_type_size_impl)"
+      - "lib/curl/CMakeLists.txt:1154 (check_type_size)"
+    checks:
+      - "Check size of long"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-jjj193"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-jjj193"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_SIZEOF_LONG"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-jjj193'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_15c0c
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_15c0c.dir\\SIZEOF_LONG.c.obj /FdCMakeFiles\\cmTC_15c0c.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-jjj193\\SIZEOF_LONG.c
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_15c0c.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_15c0c.dir\\SIZEOF_LONG.c.obj  /out:cmTC_15c0c.exe /implib:cmTC_15c0c.lib /pdb:cmTC_15c0c.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:146 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:271 (__check_type_size_impl)"
+      - "lib/curl/CMakeLists.txt:1155 (check_type_size)"
+    checks:
+      - "Check size of int"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-e1ttnq"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-e1ttnq"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_SIZEOF_INT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-e1ttnq'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_1fbfb
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_1fbfb.dir\\SIZEOF_INT.c.obj /FdCMakeFiles\\cmTC_1fbfb.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-e1ttnq\\SIZEOF_INT.c
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_1fbfb.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_1fbfb.dir\\SIZEOF_INT.c.obj  /out:cmTC_1fbfb.exe /implib:cmTC_1fbfb.lib /pdb:cmTC_1fbfb.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:146 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:271 (__check_type_size_impl)"
+      - "lib/curl/CMakeLists.txt:1156 (check_type_size)"
+    checks:
+      - "Check size of __int64"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-k1y26v"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-k1y26v"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_SIZEOF___INT64"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-k1y26v'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_47105
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_47105.dir\\SIZEOF___INT64.c.obj /FdCMakeFiles\\cmTC_47105.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-k1y26v\\SIZEOF___INT64.c
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_47105.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_47105.dir\\SIZEOF___INT64.c.obj  /out:cmTC_47105.exe /implib:cmTC_47105.lib /pdb:cmTC_47105.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:146 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:271 (__check_type_size_impl)"
+      - "lib/curl/CMakeLists.txt:1157 (check_type_size)"
+    checks:
+      - "Check size of time_t"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-1tndtt"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-1tndtt"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_SIZEOF_TIME_T"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-1tndtt'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_42454
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_42454.dir\\SIZEOF_TIME_T.c.obj /FdCMakeFiles\\cmTC_42454.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-1tndtt\\SIZEOF_TIME_T.c
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_42454.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_42454.dir\\SIZEOF_TIME_T.c.obj  /out:cmTC_42454.exe /implib:cmTC_42454.lib /pdb:cmTC_42454.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:146 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:271 (__check_type_size_impl)"
+      - "lib/curl/CMakeLists.txt:1270 (check_type_size)"
+    checks:
+      - "Check size of ADDRESS_FAMILY"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-c5c1zh"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-c5c1zh"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_SIZEOF_ADDRESS_FAMILY"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-c5c1zh'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_18049
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_18049.dir\\SIZEOF_ADDRESS_FAMILY.c.obj /FdCMakeFiles\\cmTC_18049.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-c5c1zh\\SIZEOF_ADDRESS_FAMILY.c
+        FAILED: CMakeFiles/cmTC_18049.dir/SIZEOF_ADDRESS_FAMILY.c.obj 
+        C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_18049.dir\\SIZEOF_ADDRESS_FAMILY.c.obj /FdCMakeFiles\\cmTC_18049.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-c5c1zh\\SIZEOF_ADDRESS_FAMILY.c
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\inaddr.h(27): error C2061: Syntaxfehler: Bezeichner "UCHAR"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\inaddr.h(27): error C2059: Syntaxfehler: "}"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\inaddr.h(28): error C2061: Syntaxfehler: Bezeichner "USHORT"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\inaddr.h(28): error C2059: Syntaxfehler: "}"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\inaddr.h(29): error C2061: Syntaxfehler: Bezeichner "S_addr"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\inaddr.h(29): error C2059: Syntaxfehler: ";"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\inaddr.h(30): error C2059: Syntaxfehler: "}"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\inaddr.h(37): error C2059: Syntaxfehler: "}"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(81): error C2061: Syntaxfehler: Bezeichner "ADDRESS_FAMILY"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(81): error C2059: Syntaxfehler: ";"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(243): error C2061: Syntaxfehler: Bezeichner "u_short"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(248): error C2061: Syntaxfehler: Bezeichner "sa_data"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(248): error C2059: Syntaxfehler: ";"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(248): error C2059: Syntaxfehler: "["
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(249): error C2059: Syntaxfehler: "}"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(259): error C2061: Syntaxfehler: Bezeichner "LPSOCKADDR"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(268): error C2061: Syntaxfehler: Bezeichner "iSockaddrLength"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(268): error C2059: Syntaxfehler: ";"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(269): error C2059: Syntaxfehler: "}"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(277): error C2061: Syntaxfehler: Bezeichner "INT"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(278): error C2061: Syntaxfehler: Bezeichner "Address"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(278): error C2059: Syntaxfehler: ";"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(278): error C2059: Syntaxfehler: "["
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(279): error C2059: Syntaxfehler: "}"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(293): error C2061: Syntaxfehler: Bezeichner "SOCKET_ADDRESS"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(294): error C2061: Syntaxfehler: Bezeichner "RemoteAddr"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(294): error C2059: Syntaxfehler: ";"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(295): error C2061: Syntaxfehler: Bezeichner "iSocketType"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(295): error C2059: Syntaxfehler: ";"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(296): error C2061: Syntaxfehler: Bezeichner "iProtocol"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(296): error C2059: Syntaxfehler: ";"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(297): error C2059: Syntaxfehler: "}"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(325): error C2061: Syntaxfehler: Bezeichner "ADDRESS_FAMILY"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(327): error C2061: Syntaxfehler: Bezeichner "__ss_pad1"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(327): error C2059: Syntaxfehler: ";"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(327): error C2059: Syntaxfehler: "["
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(332): error C2061: Syntaxfehler: Bezeichner "__ss_pad2"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(332): error C2059: Syntaxfehler: ";"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(332): error C2059: Syntaxfehler: "["
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(336): error C2059: Syntaxfehler: "}"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(343): error C2061: Syntaxfehler: Bezeichner "CHAR"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(348): error C2061: Syntaxfehler: Bezeichner "__ss_pad2"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(348): error C2059: Syntaxfehler: ";"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(348): error C2059: Syntaxfehler: "["
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(352): error C2059: Syntaxfehler: "}"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(625): error C2061: Syntaxfehler: Bezeichner "ULONG"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(626): error C2061: Syntaxfehler: Bezeichner "Level"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(626): error C2059: Syntaxfehler: ";"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(626): error C2059: Syntaxfehler: ":"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(627): error C2059: Syntaxfehler: "}"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(628): error C2061: Syntaxfehler: Bezeichner "Value"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(628): error C2059: Syntaxfehler: ";"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(629): error C2059: Syntaxfehler: "}"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(630): error C2059: Syntaxfehler: "}"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(646): error C2061: Syntaxfehler: Bezeichner "USHORT"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(647): error C2061: Syntaxfehler: Bezeichner "sin_addr"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(647): error C2059: Syntaxfehler: ";"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(648): error C2061: Syntaxfehler: Bezeichner "sin_zero"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(648): error C2059: Syntaxfehler: ";"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(648): error C2059: Syntaxfehler: "["
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(649): error C2059: Syntaxfehler: "}"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(690): error C2061: Syntaxfehler: Bezeichner "ULONG"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(691): error C2061: Syntaxfehler: Bezeichner "FAR"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(691): error C2059: Syntaxfehler: ";"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(692): error C2059: Syntaxfehler: "}"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(699): error C2061: Syntaxfehler: Bezeichner "LPSOCKADDR"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(700): error C2061: Syntaxfehler: Bezeichner "namelen"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(700): error C2059: Syntaxfehler: ";"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(701): error C2061: Syntaxfehler: Bezeichner "lpBuffers"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(701): error C2059: Syntaxfehler: ";"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(706): error C2061: Syntaxfehler: Bezeichner "dwBufferCount"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(706): error C2059: Syntaxfehler: ";"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(709): error C2061: Syntaxfehler: Bezeichner "Control"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(709): error C2059: Syntaxfehler: ";"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(714): error C2061: Syntaxfehler: Bezeichner "dwFlags"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(714): error C2059: Syntaxfehler: ";"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(717): error C2059: Syntaxfehler: "}"
+        C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\shared\\ws2def.h(726): fatal error C1046: Compilerlimit : struct zu tief geschachtelt
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:146 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:271 (__check_type_size_impl)"
+      - "lib/curl/CMakeLists.txt:1305 (check_type_size)"
+    checks:
+      - "Check size of off_t"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-8o8jok"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-8o8jok"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_SIZEOF_OFF_T"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-8o8jok'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_c8b78
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_c8b78.dir\\SIZEOF_OFF_T.c.obj /FdCMakeFiles\\cmTC_c8b78.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-8o8jok\\SIZEOF_OFF_T.c
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_c8b78.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_c8b78.dir\\SIZEOF_OFF_T.c.obj  /out:cmTC_c8b78.exe /implib:cmTC_c8b78.lib /pdb:cmTC_c8b78.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  ws2_32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:146 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:271 (__check_type_size_impl)"
+      - "lib/curl/CMakeLists.txt:1310 (check_type_size)"
+    checks:
+      - "Check size of curl_off_t"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-63vsv2"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-63vsv2"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_SIZEOF_CURL_OFF_T"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-63vsv2'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_17a77
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo  -IC:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight\\lib\\curl\\include /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_17a77.dir\\SIZEOF_CURL_OFF_T.c.obj /FdCMakeFiles\\cmTC_17a77.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-63vsv2\\SIZEOF_CURL_OFF_T.c
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_17a77.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_17a77.dir\\SIZEOF_CURL_OFF_T.c.obj  /out:cmTC_17a77.exe /implib:cmTC_17a77.lib /pdb:cmTC_17a77.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  ws2_32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:146 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:271 (__check_type_size_impl)"
+      - "lib/curl/CMakeLists.txt:1312 (check_type_size)"
+    checks:
+      - "Check size of curl_socket_t"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-n70ghz"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-n70ghz"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_SIZEOF_CURL_SOCKET_T"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-n70ghz'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_ea89f
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo  -IC:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight\\lib\\curl\\include /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_ea89f.dir\\SIZEOF_CURL_SOCKET_T.c.obj /FdCMakeFiles\\cmTC_ea89f.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-n70ghz\\SIZEOF_CURL_SOCKET_T.c
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_ea89f.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_ea89f.dir\\SIZEOF_CURL_SOCKET_T.c.obj  /out:cmTC_ea89f.exe /implib:cmTC_ea89f.lib /pdb:cmTC_ea89f.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  ws2_32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:146 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake:271 (__check_type_size_impl)"
+      - "lib/curl/CMake/OtherTests.cmake:82 (check_type_size)"
+      - "lib/curl/CMakeLists.txt:1418 (include)"
+    checks:
+      - "Check size of struct sockaddr_storage"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-oay3vo"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-oay3vo"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_SIZEOF_STRUCT_SOCKADDR_STORAGE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeScratch/TryCompile-oay3vo'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_142ad
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo  -IC:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight\\lib\\curl\\include /DWIN32 /D_WINDOWS /W3  /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_142ad.dir\\SIZEOF_STRUCT_SOCKADDR_STORAGE.c.obj /FdCMakeFiles\\cmTC_142ad.dir\\cmTC_142ad.pdb /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight-data\\application\\windows\\CMakeFiles\\CMakeScratch\\TryCompile-oay3vo\\SIZEOF_STRUCT_SOCKADDR_STORAGE.c
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\lib.exe /nologo /machine:x64 /out:cmTC_142ad.lib CMakeFiles\\cmTC_142ad.dir\\SIZEOF_STRUCT_SOCKADDR_STORAGE.c.obj  && cd ."
+        
+      exitCode: 0
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "lib/curl/CMake/Macros.cmake:49 (try_compile)"
+      - "lib/curl/CMakeLists.txt:1080 (curl_internal_test)"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_WIN32_WINNT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_37c9e
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_37c9e.dir\\CurlTests.c.obj /FdCMakeFiles\\cmTC_37c9e.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight\\lib\\curl\\CMake\\CurlTests.c
+        _WIN32_WINNT=0x0A00
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_37c9e.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_37c9e.dir\\CurlTests.c.obj  /out:cmTC_37c9e.exe /implib:cmTC_37c9e.lib /pdb:cmTC_37c9e.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "lib/curl/CMake/Macros.cmake:49 (try_compile)"
+      - "lib/curl/CMakeLists.txt:1080 (curl_internal_test)"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_WIN32_WINNT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_cec17
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_cec17.dir\\CurlTests.c.obj /FdCMakeFiles\\cmTC_cec17.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight\\lib\\curl\\CMake\\CurlTests.c
+        _WIN32_WINNT=0x0A00
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_cec17.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_cec17.dir\\CurlTests.c.obj  /out:cmTC_cec17.exe /implib:cmTC_cec17.lib /pdb:cmTC_cec17.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "lib/curl/CMake/Macros.cmake:49 (try_compile)"
+      - "lib/curl/CMakeLists.txt:1080 (curl_internal_test)"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_WIN32_WINNT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_f608e
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_f608e.dir\\CurlTests.c.obj /FdCMakeFiles\\cmTC_f608e.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight\\lib\\curl\\CMake\\CurlTests.c
+        _WIN32_WINNT=0x0A00
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_f608e.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_f608e.dir\\CurlTests.c.obj  /out:cmTC_f608e.exe /implib:cmTC_f608e.lib /pdb:cmTC_f608e.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "lib/curl/CMake/Macros.cmake:49 (try_compile)"
+      - "lib/curl/CMakeLists.txt:1080 (curl_internal_test)"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_WIN32_WINNT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_a28c1
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_a28c1.dir\\CurlTests.c.obj /FdCMakeFiles\\cmTC_a28c1.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight\\lib\\curl\\CMake\\CurlTests.c
+        _WIN32_WINNT=0x0A00
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_a28c1.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_a28c1.dir\\CurlTests.c.obj  /out:cmTC_a28c1.exe /implib:cmTC_a28c1.lib /pdb:cmTC_a28c1.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "lib/curl/CMake/Macros.cmake:49 (try_compile)"
+      - "lib/curl/CMakeLists.txt:1080 (curl_internal_test)"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_WIN32_WINNT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_e3fe0
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_e3fe0.dir\\CurlTests.c.obj /FdCMakeFiles\\cmTC_e3fe0.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight\\lib\\curl\\CMake\\CurlTests.c
+        _WIN32_WINNT=0x0A00
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_e3fe0.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_e3fe0.dir\\CurlTests.c.obj  /out:cmTC_e3fe0.exe /implib:cmTC_e3fe0.lib /pdb:cmTC_e3fe0.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "lib/curl/CMake/Macros.cmake:49 (try_compile)"
+      - "lib/curl/CMakeLists.txt:1080 (curl_internal_test)"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_WIN32_WINNT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_7e35f
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_7e35f.dir\\CurlTests.c.obj /FdCMakeFiles\\cmTC_7e35f.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight\\lib\\curl\\CMake\\CurlTests.c
+        _WIN32_WINNT=0x0A00
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_7e35f.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_7e35f.dir\\CurlTests.c.obj  /out:cmTC_7e35f.exe /implib:cmTC_7e35f.lib /pdb:cmTC_7e35f.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "lib/curl/CMake/Macros.cmake:49 (try_compile)"
+      - "lib/curl/CMakeLists.txt:1080 (curl_internal_test)"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_WIN32_WINNT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_cf8e7
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_cf8e7.dir\\CurlTests.c.obj /FdCMakeFiles\\cmTC_cf8e7.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight\\lib\\curl\\CMake\\CurlTests.c
+        _WIN32_WINNT=0x0A00
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_cf8e7.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_cf8e7.dir\\CurlTests.c.obj  /out:cmTC_cf8e7.exe /implib:cmTC_cf8e7.lib /pdb:cmTC_cf8e7.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "lib/curl/CMake/Macros.cmake:49 (try_compile)"
+      - "lib/curl/CMakeLists.txt:1080 (curl_internal_test)"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_WIN32_WINNT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_5f538
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_5f538.dir\\CurlTests.c.obj /FdCMakeFiles\\cmTC_5f538.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight\\lib\\curl\\CMake\\CurlTests.c
+        _WIN32_WINNT=0x0A00
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_5f538.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_5f538.dir\\CurlTests.c.obj  /out:cmTC_5f538.exe /implib:cmTC_5f538.lib /pdb:cmTC_5f538.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "lib/curl/CMake/Macros.cmake:49 (try_compile)"
+      - "lib/curl/CMakeLists.txt:1080 (curl_internal_test)"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_WIN32_WINNT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_5a314
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_5a314.dir\\CurlTests.c.obj /FdCMakeFiles\\cmTC_5a314.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight\\lib\\curl\\CMake\\CurlTests.c
+        _WIN32_WINNT=0x0A00
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_5a314.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_5a314.dir\\CurlTests.c.obj  /out:cmTC_5a314.exe /implib:cmTC_5a314.lib /pdb:cmTC_5a314.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "lib/curl/CMake/Macros.cmake:49 (try_compile)"
+      - "lib/curl/CMakeLists.txt:1080 (curl_internal_test)"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_WIN32_WINNT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_94eca
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_94eca.dir\\CurlTests.c.obj /FdCMakeFiles\\cmTC_94eca.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight\\lib\\curl\\CMake\\CurlTests.c
+        _WIN32_WINNT=0x0A00
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_94eca.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_94eca.dir\\CurlTests.c.obj  /out:cmTC_94eca.exe /implib:cmTC_94eca.lib /pdb:cmTC_94eca.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "lib/curl/CMake/Macros.cmake:49 (try_compile)"
+      - "lib/curl/CMakeLists.txt:1080 (curl_internal_test)"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_WIN32_WINNT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_2cddf
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_2cddf.dir\\CurlTests.c.obj /FdCMakeFiles\\cmTC_2cddf.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight\\lib\\curl\\CMake\\CurlTests.c
+        _WIN32_WINNT=0x0A00
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_2cddf.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_2cddf.dir\\CurlTests.c.obj  /out:cmTC_2cddf.exe /implib:cmTC_2cddf.lib /pdb:cmTC_2cddf.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "lib/curl/CMake/Macros.cmake:49 (try_compile)"
+      - "lib/curl/CMakeLists.txt:1080 (curl_internal_test)"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_WIN32_WINNT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_dc6e6
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_dc6e6.dir\\CurlTests.c.obj /FdCMakeFiles\\cmTC_dc6e6.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight\\lib\\curl\\CMake\\CurlTests.c
+        _WIN32_WINNT=0x0A00
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_dc6e6.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_dc6e6.dir\\CurlTests.c.obj  /out:cmTC_dc6e6.exe /implib:cmTC_dc6e6.lib /pdb:cmTC_dc6e6.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "lib/curl/CMake/Macros.cmake:49 (try_compile)"
+      - "lib/curl/CMakeLists.txt:1080 (curl_internal_test)"
+    directories:
+      source: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/hanna/Desktop/Sisija/SisijaFight/lib/curl/CMake;"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: "$<IF:$<AND:$<C_COMPILER_ID:MSVC>,$<CXX_COMPILER_ID:MSVC>>,$<$<CONFIG:Debug,RelWithDebInfo>:EditAndContinue>,$<$<CONFIG:Debug,RelWithDebInfo>:ProgramDatabase>>"
+    buildResult:
+      variable: "HAVE_WIN32_WINNT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_0bfe4
+        [1/2] C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\\cmTC_0bfe4.dir\\CurlTests.c.obj /FdCMakeFiles\\cmTC_0bfe4.dir\\ /FS -c C:\\Users\\hanna\\Desktop\\Sisija\\SisijaFight\\lib\\curl\\CMake\\CurlTests.c
+        _WIN32_WINNT=0x0A00
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_0bfe4.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1436~1.325\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_0bfe4.dir\\CurlTests.c.obj  /out:cmTC_0bfe4.exe /implib:cmTC_0bfe4.lib /pdb:cmTC_0bfe4.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
 ...
