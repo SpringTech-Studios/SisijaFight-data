@@ -26,7 +26,7 @@ if(NOT EXISTS "C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/window
 endif()
 
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/hanna/Desktop/Sisija/SisijaFight/out/install/x64-release")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/hanna/Desktop/Sisija/SisijaFight/../SisijaFight-data/application/windows")
 endif()
 message(${CMAKE_INSTALL_PREFIX})
 

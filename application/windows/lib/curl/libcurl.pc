@@ -25,9 +25,9 @@
 # This should most probably benefit from getting a "Requires:" field added
 # dynamically by configure.
 #
-prefix=C:/Users/hanna/Desktop/Sisija/SisijaFight/out/install/x64-release
+prefix=C:/Users/hanna/Desktop/Sisija/SisijaFight/../SisijaFight-data/application/windows
 exec_prefix=${prefix}
-libdir=C:/Users/hanna/Desktop/Sisija/SisijaFight/out/install/x64-release/lib
+libdir=C:/Users/hanna/Desktop/Sisija/SisijaFight/../SisijaFight-data/application/windows/lib
 includedir=${prefix}/include
 supported_protocols="DICT FILE FTP GOPHER HTTP IMAP LDAP LDAPS MQTT POP3 RTSP SMB SMTP TELNET TFTP"
 supported_features="IPv6 UnixSockets AsynchDNS Largefile alt-svc HSTS NTLM threadsafe"

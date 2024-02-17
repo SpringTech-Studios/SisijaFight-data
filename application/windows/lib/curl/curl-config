@@ -23,7 +23,7 @@
 #
 ###########################################################################
 
-prefix="C:/Users/hanna/Desktop/Sisija/SisijaFight/out/install/x64-release"
+prefix="C:/Users/hanna/Desktop/Sisija/SisijaFight/../SisijaFight-data/application/windows"
 exec_prefix=${prefix}
 includedir=${prefix}/include
 cppflag_curl_staticlib=
@@ -78,7 +78,7 @@ while test $# -gt 0; do
         ;;
 
     --cc)
-        echo "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/bin/Hostx64/x64/cl.exe"
+        echo "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.39.33519/bin/Hostx64/x64/cl.exe"
         ;;
 
     --prefix)
@@ -157,8 +157,8 @@ while test $# -gt 0; do
         ;;
 
     --libs)
-        if test "XC:/Users/hanna/Desktop/Sisija/SisijaFight/out/install/x64-release/lib" != "X/usr/lib" -a "XC:/Users/hanna/Desktop/Sisija/SisijaFight/out/install/x64-release/lib" != "X/usr/lib64"; then
-           CURLLIBDIR="-LC:/Users/hanna/Desktop/Sisija/SisijaFight/out/install/x64-release/lib "
+        if test "XC:/Users/hanna/Desktop/Sisija/SisijaFight/../SisijaFight-data/application/windows/lib" != "X/usr/lib" -a "XC:/Users/hanna/Desktop/Sisija/SisijaFight/../SisijaFight-data/application/windows/lib" != "X/usr/lib64"; then
+           CURLLIBDIR="-LC:/Users/hanna/Desktop/Sisija/SisijaFight/../SisijaFight-data/application/windows/lib "
         else
            CURLLIBDIR=""
         fi
@@ -174,7 +174,7 @@ while test $# -gt 0; do
 
     --static-libs)
         if test "Xno" != "Xno" ; then
-          echo "C:/Users/hanna/Desktop/Sisija/SisijaFight/out/install/x64-release/lib/libcurl.lib" /machine:x64  -lws2_32 -lbcrypt -lwldap32 -ladvapi32 -lcrypt32
+          echo "C:/Users/hanna/Desktop/Sisija/SisijaFight/../SisijaFight-data/application/windows/lib/libcurl.lib" /machine:x64  -lws2_32 -lbcrypt -lwldap32 -ladvapi32 -lcrypt32
         else
           echo "curl was built with static libraries disabled" >&2
           exit 1

@@ -1,126 +1,36 @@
 Performing Curl Test HAVE_WIN32_WINNT passed with the following output:
 Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
 
-Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_22a3d
-[1/2] C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\cmTC_22a3d.dir\CurlTests.c.obj /FdCMakeFiles\cmTC_22a3d.dir\ /FS -c C:\Users\hanna\Desktop\Sisija\SisijaFight\lib\curl\CMake\CurlTests.c
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_f04f6
+[1/2] C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1439~1.335\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\cmTC_f04f6.dir\CurlTests.c.obj /FdCMakeFiles\cmTC_f04f6.dir\ /FS -c C:\Users\hanna\Desktop\Sisija\SisijaFight\lib\curl\CMake\CurlTests.c
 _WIN32_WINNT=0x0A00
-[2/2] cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_22a3d.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_22a3d.dir\CurlTests.c.obj  /out:cmTC_22a3d.exe /implib:cmTC_22a3d.lib /pdb:cmTC_22a3d.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+[2/2] C:\WINDOWS\system32\cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_f04f6.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1439~1.335\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_f04f6.dir\CurlTests.c.obj  /out:cmTC_f04f6.exe /implib:cmTC_f04f6.lib /pdb:cmTC_f04f6.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
 
 
 Performing Curl Test HAVE_WIN32_WINNT passed with the following output:
 Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
 
-Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_37c9e
-[1/2] C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\cmTC_37c9e.dir\CurlTests.c.obj /FdCMakeFiles\cmTC_37c9e.dir\ /FS -c C:\Users\hanna\Desktop\Sisija\SisijaFight\lib\curl\CMake\CurlTests.c
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_7bc9a
+[1/2] C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1439~1.335\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\cmTC_7bc9a.dir\CurlTests.c.obj /FdCMakeFiles\cmTC_7bc9a.dir\ /FS -c C:\Users\hanna\Desktop\Sisija\SisijaFight\lib\curl\CMake\CurlTests.c
 _WIN32_WINNT=0x0A00
-[2/2] cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_37c9e.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_37c9e.dir\CurlTests.c.obj  /out:cmTC_37c9e.exe /implib:cmTC_37c9e.lib /pdb:cmTC_37c9e.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+[2/2] C:\WINDOWS\system32\cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_7bc9a.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1439~1.335\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_7bc9a.dir\CurlTests.c.obj  /out:cmTC_7bc9a.exe /implib:cmTC_7bc9a.lib /pdb:cmTC_7bc9a.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
 
 
 Performing Curl Test HAVE_WIN32_WINNT passed with the following output:
 Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
 
-Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_cec17
-[1/2] C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\cmTC_cec17.dir\CurlTests.c.obj /FdCMakeFiles\cmTC_cec17.dir\ /FS -c C:\Users\hanna\Desktop\Sisija\SisijaFight\lib\curl\CMake\CurlTests.c
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_c9fee
+[1/2] C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1439~1.335\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\cmTC_c9fee.dir\CurlTests.c.obj /FdCMakeFiles\cmTC_c9fee.dir\ /FS -c C:\Users\hanna\Desktop\Sisija\SisijaFight\lib\curl\CMake\CurlTests.c
 _WIN32_WINNT=0x0A00
-[2/2] cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_cec17.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_cec17.dir\CurlTests.c.obj  /out:cmTC_cec17.exe /implib:cmTC_cec17.lib /pdb:cmTC_cec17.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+[2/2] C:\WINDOWS\system32\cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_c9fee.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1439~1.335\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_c9fee.dir\CurlTests.c.obj  /out:cmTC_c9fee.exe /implib:cmTC_c9fee.lib /pdb:cmTC_c9fee.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
 
 
 Performing Curl Test HAVE_WIN32_WINNT passed with the following output:
 Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
 
-Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_f608e
-[1/2] C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\cmTC_f608e.dir\CurlTests.c.obj /FdCMakeFiles\cmTC_f608e.dir\ /FS -c C:\Users\hanna\Desktop\Sisija\SisijaFight\lib\curl\CMake\CurlTests.c
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_3acab
+[1/2] C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1439~1.335\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\cmTC_3acab.dir\CurlTests.c.obj /FdCMakeFiles\cmTC_3acab.dir\ /FS -c C:\Users\hanna\Desktop\Sisija\SisijaFight\lib\curl\CMake\CurlTests.c
 _WIN32_WINNT=0x0A00
-[2/2] cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_f608e.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_f608e.dir\CurlTests.c.obj  /out:cmTC_f608e.exe /implib:cmTC_f608e.lib /pdb:cmTC_f608e.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-
-
-Performing Curl Test HAVE_WIN32_WINNT passed with the following output:
-Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
-
-Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_a28c1
-[1/2] C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\cmTC_a28c1.dir\CurlTests.c.obj /FdCMakeFiles\cmTC_a28c1.dir\ /FS -c C:\Users\hanna\Desktop\Sisija\SisijaFight\lib\curl\CMake\CurlTests.c
-_WIN32_WINNT=0x0A00
-[2/2] cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_a28c1.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_a28c1.dir\CurlTests.c.obj  /out:cmTC_a28c1.exe /implib:cmTC_a28c1.lib /pdb:cmTC_a28c1.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-
-
-Performing Curl Test HAVE_WIN32_WINNT passed with the following output:
-Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
-
-Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_e3fe0
-[1/2] C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\cmTC_e3fe0.dir\CurlTests.c.obj /FdCMakeFiles\cmTC_e3fe0.dir\ /FS -c C:\Users\hanna\Desktop\Sisija\SisijaFight\lib\curl\CMake\CurlTests.c
-_WIN32_WINNT=0x0A00
-[2/2] cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_e3fe0.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_e3fe0.dir\CurlTests.c.obj  /out:cmTC_e3fe0.exe /implib:cmTC_e3fe0.lib /pdb:cmTC_e3fe0.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-
-
-Performing Curl Test HAVE_WIN32_WINNT passed with the following output:
-Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
-
-Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_7e35f
-[1/2] C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\cmTC_7e35f.dir\CurlTests.c.obj /FdCMakeFiles\cmTC_7e35f.dir\ /FS -c C:\Users\hanna\Desktop\Sisija\SisijaFight\lib\curl\CMake\CurlTests.c
-_WIN32_WINNT=0x0A00
-[2/2] cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_7e35f.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_7e35f.dir\CurlTests.c.obj  /out:cmTC_7e35f.exe /implib:cmTC_7e35f.lib /pdb:cmTC_7e35f.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-
-
-Performing Curl Test HAVE_WIN32_WINNT passed with the following output:
-Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
-
-Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_cf8e7
-[1/2] C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\cmTC_cf8e7.dir\CurlTests.c.obj /FdCMakeFiles\cmTC_cf8e7.dir\ /FS -c C:\Users\hanna\Desktop\Sisija\SisijaFight\lib\curl\CMake\CurlTests.c
-_WIN32_WINNT=0x0A00
-[2/2] cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_cf8e7.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_cf8e7.dir\CurlTests.c.obj  /out:cmTC_cf8e7.exe /implib:cmTC_cf8e7.lib /pdb:cmTC_cf8e7.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-
-
-Performing Curl Test HAVE_WIN32_WINNT passed with the following output:
-Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
-
-Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_5f538
-[1/2] C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\cmTC_5f538.dir\CurlTests.c.obj /FdCMakeFiles\cmTC_5f538.dir\ /FS -c C:\Users\hanna\Desktop\Sisija\SisijaFight\lib\curl\CMake\CurlTests.c
-_WIN32_WINNT=0x0A00
-[2/2] cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_5f538.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_5f538.dir\CurlTests.c.obj  /out:cmTC_5f538.exe /implib:cmTC_5f538.lib /pdb:cmTC_5f538.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-
-
-Performing Curl Test HAVE_WIN32_WINNT passed with the following output:
-Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
-
-Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_5a314
-[1/2] C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\cmTC_5a314.dir\CurlTests.c.obj /FdCMakeFiles\cmTC_5a314.dir\ /FS -c C:\Users\hanna\Desktop\Sisija\SisijaFight\lib\curl\CMake\CurlTests.c
-_WIN32_WINNT=0x0A00
-[2/2] cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_5a314.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_5a314.dir\CurlTests.c.obj  /out:cmTC_5a314.exe /implib:cmTC_5a314.lib /pdb:cmTC_5a314.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-
-
-Performing Curl Test HAVE_WIN32_WINNT passed with the following output:
-Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
-
-Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_94eca
-[1/2] C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\cmTC_94eca.dir\CurlTests.c.obj /FdCMakeFiles\cmTC_94eca.dir\ /FS -c C:\Users\hanna\Desktop\Sisija\SisijaFight\lib\curl\CMake\CurlTests.c
-_WIN32_WINNT=0x0A00
-[2/2] cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_94eca.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_94eca.dir\CurlTests.c.obj  /out:cmTC_94eca.exe /implib:cmTC_94eca.lib /pdb:cmTC_94eca.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-
-
-Performing Curl Test HAVE_WIN32_WINNT passed with the following output:
-Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
-
-Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_2cddf
-[1/2] C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\cmTC_2cddf.dir\CurlTests.c.obj /FdCMakeFiles\cmTC_2cddf.dir\ /FS -c C:\Users\hanna\Desktop\Sisija\SisijaFight\lib\curl\CMake\CurlTests.c
-_WIN32_WINNT=0x0A00
-[2/2] cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_2cddf.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_2cddf.dir\CurlTests.c.obj  /out:cmTC_2cddf.exe /implib:cmTC_2cddf.lib /pdb:cmTC_2cddf.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-
-
-Performing Curl Test HAVE_WIN32_WINNT passed with the following output:
-Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
-
-Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_dc6e6
-[1/2] C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\cmTC_dc6e6.dir\CurlTests.c.obj /FdCMakeFiles\cmTC_dc6e6.dir\ /FS -c C:\Users\hanna\Desktop\Sisija\SisijaFight\lib\curl\CMake\CurlTests.c
-_WIN32_WINNT=0x0A00
-[2/2] cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_dc6e6.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_dc6e6.dir\CurlTests.c.obj  /out:cmTC_dc6e6.exe /implib:cmTC_dc6e6.lib /pdb:cmTC_dc6e6.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-
-
-Performing Curl Test HAVE_WIN32_WINNT passed with the following output:
-Change Dir: 'C:/Users/hanna/Desktop/Sisija/SisijaFight-data/application/windows/CMakeFiles/CMakeTmp'
-
-Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_0bfe4
-[1/2] C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DHAVE_WINSOCK2_H -DHAVE_WS2TCPIP_H -DHAVE_WINDOWS_H /MDd /Ob0 /Od /RTC1 -Zi /showIncludes /FoCMakeFiles\cmTC_0bfe4.dir\CurlTests.c.obj /FdCMakeFiles\cmTC_0bfe4.dir\ /FS -c C:\Users\hanna\Desktop\Sisija\SisijaFight\lib\curl\CMake\CurlTests.c
-_WIN32_WINNT=0x0A00
-[2/2] cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_0bfe4.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_0bfe4.dir\CurlTests.c.obj  /out:cmTC_0bfe4.exe /implib:cmTC_0bfe4.lib /pdb:cmTC_0bfe4.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+[2/2] C:\WINDOWS\system32\cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_3acab.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1439~1.335\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_3acab.dir\CurlTests.c.obj  /out:cmTC_3acab.exe /implib:cmTC_3acab.lib /pdb:cmTC_3acab.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
 
 

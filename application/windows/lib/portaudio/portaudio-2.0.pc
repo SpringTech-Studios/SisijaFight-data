@@ -1,4 +1,4 @@
-prefix=C:/Users/hanna/Desktop/Sisija/SisijaFight/out/install/x64-release
+prefix=C:/Users/hanna/Desktop/Sisija/SisijaFight/../SisijaFight-data/application/windows
 exec_prefix=${prefix}
 libdir=${prefix}/lib
 includedir=${prefix}/include
