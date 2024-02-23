@@ -2,4 +2,5 @@
 	<language code='de' name='Deutsch'>de.json</language>
 	<language code='fr' name='Français'>fr.json</language>
 	<language code='it' name='Italiano'>it.json</language>
+	<language code='ru' name='Russian'>ru.json</language>
 </languages>
