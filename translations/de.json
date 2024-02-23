@@ -8,7 +8,12 @@
     "OK": "Ok!",
     "Online Multiplayer": "Online Mehrspieler-Spiel",
     "Local Singleplayer": "Lokales Einzelspiel",
+    "Next": "Weiter",
     "Classic Fight": "Klassischer Kampf",
+    "Tactic Fight": "Taktischer Kampf",
+    "Story Mode": "Geschichtsmodus",
+    "Orderkiller": "Auftragskiller",
+    "difficulty:": "Schwierigkeit:",
     "START": "STARTEN",
     "Select a world first!": "Bitte zuerst eine Welt auswählen!",
     "Assistant": "Assistent",
@@ -18,10 +23,6 @@
     "Level by: ": "Level von: ",
     "Maximum number of Players: ": "Maximale Spieleranzahl: ",
     "Start Game": "Spiel Starten",
-    "Tactic Fight": "Taktischer Kampf",
-    "Story Mode": "Geschichtsmodus",
     "Player properties": "Eigenschaften des Spielers",
-    "Orderkiller": "Auftragskiller",
-    "MHz": "MHz",
-    "Next": "Weiter"
+    "MHz": "MHz"
 }
